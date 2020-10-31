@@ -1,0 +1,53 @@
+
+#mainNavbar {
+    font-size: 1.5rem;
+    font-weight: 100; 
+	 font-family: "Nunito", sans-serif;
+}
+
+#mainNavbar .nav-link {
+    color: white;
+}
+
+#mainNavbar .nav-link:hover {
+    color: black;
+}
+
+#icon{
+	font-size:2em;
+}
+body {
+    background: #039dfc;
+    
+}
+
+#mainNavbar .navbar-brand {
+    color: Black;
+    font-weight: 300;
+    font-size: 2em;
+    align-items: center;
+}
+
+
+.navbar.scrolled {
+    background: rgb(31,34,255);
+    transition: background 500ms;
+    {
+        color: #0a0eff;
+    }
+    
+}
+
+.container.main{
+	margin-top:7.0em;
+	background: black;
+	
+}
+
+#delete-form{
+	display:inline;
+}
+.Label{
+	font-size:1.5em;
+	color:white;
+}
