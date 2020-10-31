@@ -1,0 +1,42 @@
+#mainNavbar {
+    font-size: 1.5rem;
+    font-weight: 100;    
+}
+
+#mainNavbar .nav-link {
+    color: white;
+}
+
+#mainNavbar .nav-link:hover {
+    color: black;
+}
+
+body {
+    background: #039dfc;
+    font-family: "Nunito", sans-serif;
+}
+
+#mainNavbar .navbar-brand {
+    color: Black;
+    font-weight: 300;
+    font-size: 2rem;
+    align-items: center;
+}
+
+#headingGroup span {
+    color: #EA1C2C;
+}
+
+#headingGroup h1 {
+    font-weight: 100;
+    font-size: 4rem;
+}
+
+.navbar.scrolled {
+    background: rgb(31,34,255);
+    transition: background 500ms;
+    {
+        color: #0a0eff;
+    }
+    
+}
