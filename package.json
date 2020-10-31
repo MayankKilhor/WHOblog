@@ -1,0 +1,20 @@
+{
+  "name": "whoblog",
+  "version": "1.0.0",
+  "description": "It's a simple Blog site made using RESTful routing",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TheRoryWillAim (Mayank)",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "express-sanitizer": "^1.0.5",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.10.3",
+    "path": "^0.12.7"
+  }
+}
